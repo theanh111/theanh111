@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Thế Anh (John)
 
-<!--
-**theanh111/theanh111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I’m a Web Developer
 
-Here are some ideas to get you started:
+## Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/theanh111)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:theanh.coder@gmail.com)
+
+## Technologies
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,next)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=java,python)
+
+### DevOps
+
+![DevOps](https://skillicons.dev/icons?i=ubuntu,netlify,vercel)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=discord,figma,git,github,notion,vscode)
